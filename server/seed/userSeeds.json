@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "64920ec1f645d71accf5c5b3",
+        "username": "Kristen",
+        "email": "kris@email.com",
+        "password": "password123"
+    },
+    {
+        "_id": "64920ec1f645d71accf5c5b4",
+        "username": "Ego",
+        "email": "ego@email.com",
+        "password": "password123"
+    },
+    {
+        "_id": "64920ec1f645d71accf5c5b5",
+        "username": "Fred",
+        "email": "fred@email.com",
+        "password": "password123"
+    },
+    {
+        "_id": "64920ec1f645d71accf5c5b6",
+        "username": "Bill",
+        "email": "bill@email.com",
+        "password": "password123"
+    }
+]
